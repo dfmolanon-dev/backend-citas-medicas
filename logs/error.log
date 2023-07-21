@@ -1,0 +1,56 @@
+2023-07-14T23:06:06.363Z error: Internal Server Error
+2023-07-14T23:06:42.214Z error: Internal Server Error
+2023-07-14T23:08:59.389Z error: Internal Server Error
+2023-07-14T23:16:59.697Z error: Internal Server Error
+2023-07-14T23:16:59.710Z error: null
+2023-07-14T23:20:31.388Z error: Internal Server Error
+2023-07-14T23:20:31.399Z error: null
+2023-07-14T23:21:20.758Z error: Internal Server Error
+2023-07-14T23:21:20.772Z error: null
+2023-07-14T23:22:18.728Z error: Internal Server Error
+2023-07-14T23:22:18.740Z error: null
+2023-07-14T23:26:16.871Z error: Internal Server Error
+2023-07-14T23:26:16.889Z error: Record has not found yet
+2023-07-14T23:26:16.891Z error: Internal Server Error
+2023-07-14T23:27:27.974Z error: Internal Server Error
+2023-07-14T23:27:27.984Z error: Record has not found yet
+2023-07-14T23:27:27.986Z error: Internal Server Error
+2023-07-14T23:29:08.392Z error: Internal Server Error
+2023-07-14T23:29:08.402Z error: Record has not found yet
+2023-07-14T23:29:08.404Z error: Internal Server Error
+2023-07-14T23:35:16.819Z error: Internal Server Error
+2023-07-14T23:35:16.835Z error: Record has not found yet
+2023-07-14T23:35:16.836Z error: Internal Server Error
+2023-07-19T20:18:04.230Z error: Failed get patient by id in repository
+2023-07-19T20:18:04.232Z error: Failed to delete doctor from service
+2023-07-19T20:18:04.232Z error: Failed to delete Patient
+2023-07-19T20:18:54.889Z error: Failed get patient by id in repository
+2023-07-19T20:18:54.890Z error: Record has not found yet
+2023-07-19T20:20:29.540Z error: Failed get patient by id in repository
+2023-07-19T20:20:29.541Z error: Record has not found yet
+2023-07-19T20:20:43.011Z error: Failed get patient by id in repository
+2023-07-19T20:20:43.012Z error: Record has not found yet
+2023-07-19T20:22:18.969Z error: Failed get patient by id in repository
+2023-07-19T20:22:18.970Z error: Record has not found yet
+2023-07-19T21:08:33.531Z error: Failed get patient by id in repository
+2023-07-19T21:08:33.533Z error: Record has not found yet
+2023-07-19T21:08:52.497Z error: Failed get patient by id in repository
+2023-07-19T21:08:52.498Z error: Record has not found yet
+2023-07-19T21:12:52.858Z error: Failed get patient by id in repository
+2023-07-19T21:12:52.859Z error: Record has not found yet
+2023-07-19T21:17:26.740Z error: Failed get patient by id in repository
+2023-07-19T21:17:26.741Z error: Record has not found yet
+2023-07-19T21:27:13.226Z error: Record has not found yet
+2023-07-20T15:15:39.305Z error: Internal Server Error
+2023-07-20T15:15:39.326Z error: Record has not found yet
+2023-07-20T15:15:39.329Z error: Internal Server Error
+2023-07-20T15:18:13.147Z error: Internal Server Error
+2023-07-20T15:18:13.177Z error: Record has not found yet
+2023-07-20T15:18:13.180Z error: Internal Server Error
+2023-07-20T15:33:51.920Z error: Internal Server Error
+2023-07-20T15:33:51.940Z error: Record has not found yet
+2023-07-20T15:33:51.943Z error: Internal Server Error
+2023-07-20T15:33:52.294Z error: Internal Server Error
+2023-07-20T15:33:52.310Z error: Record has not found yet
+2023-07-20T15:33:52.312Z error: Internal Server Error
+2023-07-20T21:39:21.330Z error: Failed to create appointment from service
