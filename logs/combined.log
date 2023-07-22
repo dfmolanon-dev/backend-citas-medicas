@@ -96,3 +96,44 @@ undefined [undefined] info: Server is listening on port 8080
 2023-07-20T21:39:21.330Z error: Failed to create appointment from service
 2023-07-20T21:52:23.524Z info: Server is listening on port 8080
 2023-07-20T21:55:07.669Z info: Server is listening on port 8080
+2023-07-22T00:36:04.926Z error: Internal Server Error
+2023-07-22T00:36:04.940Z error: Record has not found yet
+2023-07-22T00:36:04.943Z error: Internal Server Error
+2023-07-22T00:38:20.182Z error: Internal Server Error
+2023-07-22T00:38:20.210Z error: Record has not found yet
+2023-07-22T00:38:20.214Z error: Internal Server Error
+2023-07-22T00:38:20.650Z error: Internal Server Error
+2023-07-22T00:38:20.679Z error: Record has not found yet
+2023-07-22T00:38:20.681Z error: Internal Server Error
+2023-07-22T01:15:13.261Z error: Internal Server Error
+2023-07-22T01:15:13.287Z error: Record has not found yet
+2023-07-22T01:15:13.289Z error: Internal Server Error
+2023-07-22T01:15:13.339Z error: Internal Server Error
+2023-07-22T01:15:13.364Z error: Record has not found yet
+2023-07-22T01:15:13.367Z error: Internal Server Error
+2023-07-22T01:22:14.578Z info: Server is listening on port 8080
+2023-07-22T01:23:05.969Z info: Server is listening on port 8080
+2023-07-22T01:28:13.080Z error: Internal Server Error
+2023-07-22T01:28:13.108Z error: Record has not found yet
+2023-07-22T01:28:13.113Z error: Internal Server Error
+2023-07-22T01:28:13.158Z error: Internal Server Error
+2023-07-22T01:28:13.186Z error: Record has not found yet
+2023-07-22T01:28:13.191Z error: Internal Server Error
+2023-07-22T01:31:21.847Z error: Internal Server Error
+2023-07-22T01:31:21.878Z error: Record has not found yet
+2023-07-22T01:31:21.881Z error: Internal Server Error
+2023-07-22T01:31:22.391Z error: Internal Server Error
+2023-07-22T01:31:22.421Z error: Record has not found yet
+2023-07-22T01:31:22.423Z error: Internal Server Error
+2023-07-22T04:08:40.612Z error: Internal Server Error
+2023-07-22T04:08:40.640Z error: Record has not found yet
+2023-07-22T04:08:40.644Z error: Internal Server Error
+2023-07-22T04:08:40.647Z error: Internal Server Error
+2023-07-22T04:08:40.677Z error: Record has not found yet
+2023-07-22T04:08:40.680Z error: Internal Server Error
+2023-07-22T04:10:36.220Z error: Internal Server Error
+2023-07-22T04:10:36.240Z error: Record has not found yet
+2023-07-22T04:10:36.243Z error: Internal Server Error
+2023-07-22T04:10:36.220Z error: Internal Server Error
+2023-07-22T04:10:36.242Z error: Record has not found yet
+2023-07-22T04:10:36.246Z error: Internal Server Error

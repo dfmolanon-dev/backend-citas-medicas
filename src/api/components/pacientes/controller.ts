@@ -50,24 +50,6 @@ export class PatientControllerImpl implements PatientController{
             }
         )    
     }
-    // public async getPatientById (req: Request, res: Response): Promise<void> {
-    //     try{
-    //         const id = parseInt(req.params.id)
-    //         const patient =  await this.patientService.getPatientById(id)
-    //         if (patient) {
-    //             res.status(200).json(patient)
-    //         } else {
-    //             throw new RecordNotFoundError()
-    //         }
-    //     } catch (error) {
-    //         logger.error(error)
-    //         if (error instanceof RecordNotFoundError){
-    //             res.status(400).json({error: error.message})
-    //         } else {
-    //             res.status(400).json({error: "Failed to retrieve patient"})
-    //         }
-    //     }
-    // }
     public async getPatientById (req: Request, res: Response): Promise<void> {
         try{
             const id = parseInt(req.params.id)
